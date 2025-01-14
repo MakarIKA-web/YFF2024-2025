@@ -13,11 +13,11 @@ main, header{
 }
 
 footer{
-    margin: 100px;
+    margin: 200px;
 }
 
 img, figcaption{
-    width: 350px;
+    width: 380px;
 }
 
 img{
@@ -28,7 +28,7 @@ img{
 }
 
 p, h2{
-    width: 80%;
+    width: 91%;
     margin: auto;
 }
 
@@ -37,7 +37,9 @@ h2{
 }
 
 h1{
+    width: 92%;
     padding-top: 30px;
+    margin: auto;
     font-size: xx-large;
 }
 
